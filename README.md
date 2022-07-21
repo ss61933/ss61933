@@ -8,7 +8,7 @@ Hi, I'm Swapnil Shimpi.
 
 ★ Primary skills   : SQL | PLSQL | DATA MODELLING (Relational DB) | TABLEAU | TABLEAU PREP | EXCEL 
 
-★ Secondary skills : MYSQL | SQL SERVER | SNOWFLAKE | DATA MODELLING (START / SNOWFLAKE) | POWER BI | ALTERYX (Basics) | PYTHON (Basics) 
+★ Secondary skills : MYSQL | SQL SERVER | SNOWFLAKE | DATA MODELLING (START / SNOWFLAKE) | ETL | POWER BI | ALTERYX (Basics) | PYTHON (Basics) 
 
 ★ You can reach me on 
         PHONE    : +91 9561161361
